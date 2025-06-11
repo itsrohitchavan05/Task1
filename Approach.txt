@@ -1,0 +1,17 @@
+Sum of Two Numbers : Take two integers as input and print their sum using +.
+
+Odd or Even : Use % 2 to check if remainder is 0 → Even, else → Odd.
+
+Factorial Calculation :  Use a for loop to multiply numbers from 1 to n.
+
+Fibonacci Sequence : Initialize first two terms. Use loop to add previous two terms to generate next ones.
+
+Reverse a String : Use a loop to add each character in front of a new string.
+
+Palindrome Check : Reverse the string and compare it to the original using a loop.
+
+Leap Year Check : A year is leap if divisible by 4 and not by 100 or divisible by 400.
+
+Armstrong Number : Count digits, then use a loop to extract each digit, raise it to the power of digit count, and sum. Compare with original number.
+
+Custom Encrytion Decrytion System : In this code, the key is already set inside the program, so the user doesn’t need to type it. The encryption works by changing each letter in the message using that key (for example, by shifting every letter forward by 3 positions). To decrypt, it just shifts the letters back using the same key. It uses ord() to get the number of each letter and chr() to turn it back into a letter after shifting. It's a basic way to hide a message and then get it back, and really easy to understand for beginners.
